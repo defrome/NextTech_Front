@@ -1,6 +1,6 @@
 # ✨ NextTech Frontend ✨
 
-🚀 Революционный взгляд на инновации и будущее технологий, созданный на React.js!
+🚀 Осмотреть сайт можно на https://next-tech-front.vercel.app/
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Built With React](https://img.shields.io/badge/Built%20With-React-61DAFB?logo=react&logoColor=white)](https://reactjs.org)
